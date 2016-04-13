@@ -1,0 +1,24 @@
+{
+  "name": "tictactoe",
+  "version": "0.0.1",
+  "description": "HTML5 tic-tac-toe",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittman/tictactoe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mittman/tictactoe/issues"
+  },
+  "homepage": "https://github.com/mittman/tictactoe#readme"
+}
