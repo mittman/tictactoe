@@ -1,0 +1,15 @@
+body {
+  padding-top: 70px;
+  background-color: #E6E6E6;
+}
+
+canvas {
+  width: 200px;
+  height: 150px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.row {
+  margin: 0 0 0 3em;
+}
